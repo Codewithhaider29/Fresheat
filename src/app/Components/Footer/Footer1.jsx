@@ -176,7 +176,7 @@ const Footer1 = () => {
             <div className="container">
                 <div className="footer-wrapper d-flex align-items-center justify-content-between">
                     <p className="wow fadeInLeft" data-wow-delay=".3s">
-                        © All Copyright 2024 by <a href="#">FreshEat</a>
+                        © All Copyright 2024 by <a href="#">Haider ALi</a>
                     </p>
                     <ul className="brand-logo wow fadeInRight" data-wow-delay=".5s">
                         <li>
